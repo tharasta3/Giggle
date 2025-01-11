@@ -10,5 +10,5 @@ This repository contains documentation and examples for the Giggle app. The sour
 ![Final Presentation 1](https://github.com/user-attachments/assets/072dddc6-def8-4ff6-b7b7-b283b7e462ba)
 
 [video]: https://youtu.be/EZs6hCIT0WQ
-[wiki]: https://github.com/rgperry/Giggle/wiki
+[wiki]: https://github.com/tharasta3/Giggle-App/wiki
 [agile]: https://trello.com/b/7mCjVkF3/giggle-board

@@ -4,7 +4,7 @@ This repository contains documentation and examples for the Giggle app. The sour
 
 | Video  |  Wiki |  Agile |
 |:-----:|:-----:|:--------:|
-|[<img src="assets/youtube_logo.png" width="25">][video]|[<img src="https://eecs441.eecs.umich.edu/img/admin/wiki.png">][wiki]|[<img src="https://eecs441.eecs.umich.edu/img/admin/trello.png">][agile]|
+|[<img src="assets/youtube_logo.png" width="50">][video]|[<img src="https://eecs441.eecs.umich.edu/img/admin/wiki.png">][wiki]|[<img src="https://eecs441.eecs.umich.edu/img/admin/trello.png">][agile]|
 
 ![Elevator Pitch](https://github.com/user-attachments/assets/bf8979bd-b0fa-4cf2-b8ee-1bff42197e7c)
 ![Final Presentation 1](https://github.com/user-attachments/assets/072dddc6-def8-4ff6-b7b7-b283b7e462ba)

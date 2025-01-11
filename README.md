@@ -1,6 +1,6 @@
 # UM EECS441§3&4 F24 Giggle
 
-This repository contains documentation and examples for the Giggle app. The source code has been moved to a private repository for security and intellectual property reasons. Links to sourche code within this repository will not work.
+This repository contains documentation and examples for the Giggle app. The source code has been moved to a private repository for security and intellectual property reasons. Links to source code within this repository will not work.
 
 | Video  |  Wiki |  Agile |
 |:-----:|:-----:|:--------:|

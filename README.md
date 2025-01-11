@@ -1,5 +1,7 @@
 # UM EECS441§3&4 F24 Giggle
 
+This repository contains documentation and examples for the Giggle app. The source code has been moved to a private repository for security and intellectual property reasons.
+
 | Video  |  Wiki |  Agile |
 |:-----:|:-----:|:--------:|
 |[<img src="https://eecs441.eecs.umich.edu/img/admin/video.png">][video]|[<img src="https://eecs441.eecs.umich.edu/img/admin/wiki.png">][wiki]|[<img src="https://eecs441.eecs.umich.edu/img/admin/trello.png">][agile]|
